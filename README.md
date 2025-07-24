@@ -18,7 +18,7 @@ I'm mayoring in Programming at Universidad Tecnologica Nacional in Buenos Aires,
 - 🦾 I'm interested in learning about mobile application development.
 - 🤔 My interests include logic development and security in websites and applications.
 - 📫 Email me at [tobiasfabescobar@gmail.com](tobiasfabescobar@gmail.com).
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1PxlxLA6vGXslYmwybcA_dlr4uQhq-tkm/view?usp=sharing) to get more information.
+- 📝 See my [Curriculum Vitae]() to get more information.
 
 <br>
 

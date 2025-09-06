@@ -14,11 +14,10 @@ I'm mayoring in Programming at Universidad Tecnologica Nacional in Buenos Aires,
 **About Me!**
 
 - 👨‍💻 Throughout my career, I've learned to adapt to new programming languages and to work with various text editors and IDEs.
-- 🐧 I'm learning to use Linux, specifically the Mint distribution.
 - 🦾 I'm interested in learning about mobile application development.
 - 🤔 My interests include logic development and security in websites and applications.
 - 📫 Email me at [tobiasfabescobar@gmail.com](tobiasfabescobar@gmail.com).
-- 📝 See my [Curriculum Vitae]() to get more information.
+<!-- - 📝 See my [Curriculum Vitae]() to get more information. -->
 
 <br>
 

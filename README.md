@@ -1,9 +1,9 @@
-<h1 align="center">¡Hola! Soy Tobias Fabricio Escobar</h1> <!--<a href="https://100rabhcsmc.github.io/Me.io/" target="blank"> a/>-->
+<h1 align="center">¡Hola! Soy Tobías Fabricio Escobar</h1> <!--<a href="https://100rabhcsmc.github.io/Me.io/" target="blank"> a/>-->
 
 <br>
 <br>
 
-Soy estudiante avanzado en la Tecnicatura en Programación Universitaria de la Universidad Tecnológica Nacional (UTN) y estoy en busqueda de mi primera experiencia laboral.
+Soy egresado de la Tecnicatura en Programación Universitaria de la Universidad Tecnológica Nacional (UTN) y estoy en búsqueda de nuevas experiencias profesionales.
                   
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
@@ -23,7 +23,7 @@ Soy estudiante avanzado en la Tecnicatura en Programación Universitaria de la U
 
 <br>
 
-## Mis habilidades técnicas
+## Mis habilidades técnicas principales
 
 <h4> Lenguajes </h4>
 <span> 
@@ -33,7 +33,6 @@ Soy estudiante avanzado en la Tecnicatura en Programación Universitaria de la U
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </span>
 
 <h4> Otras herramientas y tecnologías </h4>
